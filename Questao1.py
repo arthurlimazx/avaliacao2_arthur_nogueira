@@ -1,4 +1,6 @@
-# Convidados começa 
+# Convidados  que começam com a letra A 
+
+
 contnao=0
 cont=0
 lista=[]
