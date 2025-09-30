@@ -11,3 +11,4 @@ if tentacon== lista[0] or tentacon== lista[1] or tentacon== lista[2] or tentacon
     print("Seu convidado foi verificado")
 else:
     print("Seu convidado não está cadastrado")
+    
