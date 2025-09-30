@@ -6,7 +6,7 @@ numeroimpar=0
 for x in range(1,11):
     numero=int(input(f"Me de o {x} número: "))
     lista.append(numero)
-for x in lista:
+for numero in lista:
     if x%2==0:
         numeropar+=numero
     else:
